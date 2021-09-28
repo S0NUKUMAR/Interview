@@ -1,13 +1,16 @@
 This for the Interview Prepartaion for the Product Based Companies .
 
-1. [Part I](#part1)
-2. [PART II](#part2)
-3. [Part III](#part3)
-4. [Part IV](#part4)
-5. [Part V](#part5)
+### Top
+ 
+1. [Part I](#part1) :: [Array](#array) | [Matrix](#matrix) [String](#string) |  [Search and Sort](#ss)
+2. [PART II](#part2) :: [LinkedList](#ll)  | [BinaryTree](#bt) | [BST](#bst) 
+3. [Part III](#part3) :: [Stack and Queue](#stack) |  [Heap](#heap) 
+4. [Part IV](#part4) :: [Greedy](#greedy) | [Dynamic](#dp) | [BackTrack](#bt) 
+5. [Part V](#part5) :: [Trie](#trie) |  [Graph](#graph)
 
 <a name="part1"></a>
 ## PART I 
+<a name="array"></a>
 #### Array : 41
 | Task | October | November | December |
 |-----------------|---------------|---------------|---------------|
@@ -48,6 +51,9 @@ Minimum no. of operations required to make an array palindrome
 Median of 2 sorted arrays of equal size
 Median of 2 sorted arrays of different size
 
+[Back to Top](#top)
+
+<a name="matrix"></a>
 #### Matrix : 10
 | Task | October | November | December |
 |-----------------|---------------|---------------|---------------|
@@ -62,6 +68,9 @@ Rotate matrix by 90 degrees
 Kth smallest element in a row-cpumn wise sorted matrix
 Common elements in all rows of a given matrix
 
+[Back to Top](#top)
+
+<a name="string"></a>
 #### String : 43
 | Task | October | November | December |
 |-----------------|---------------|---------------|---------------|
@@ -108,7 +117,10 @@ Function to find Number of customers who could not get a computer
 Transform One String to Another using Minimum Number of Given Operation
 Check if two given strings are isomorphic to each other
 Recursively print all sentences that can be formed from list of word lists
+[Back to Top](#top)
 
+
+<a name="ss"></a>
 #### Search and Sort : 36
 | Task | October | November | December |
 |-----------------|---------------|---------------|---------------|
@@ -149,12 +161,14 @@ Findthe inversion count
 Implement Merge-sort in-place
 Partitioning and Sorting Arrays with Many Repeated Entries
 
+[Back to Top](#top)
+
 <a name="part2"></a>
 ## PART II 
+
+<a name="ll"></a>
 #### Linked list : 36
 
-|No. | Task | October | November | December |
-|-|----------------|---------------|---------------|---------------|
 | Task | October | November | December |
 |-----------------|---------------|---------------|---------------|
 Write a Program to reverse the Linked List. (Both Iterative and recursive)
@@ -194,7 +208,9 @@ Segregate even and odd nodes in a Linked List
 Program for n’th node from the end of a Linked List
 Find the first non-repeating character from a stream of characters
 
+[Back to Top](#top)
 
+<a name="bt"></a>
 #### Binary Tree : 35
 | Task | October | November | December |
 |-----------------|---------------|---------------|---------------|
@@ -234,7 +250,9 @@ Kth Ancestor of node in a Binary tree
 Find all Duplicate subtrees in a Binary tree [ IMP ]
 Tree Isomorphism Problem
 
+[Back to Top](#top)
 
+<a name="bst"></a>
 #### Binary Search Tree : 22
 | Task | October | November | December |
 |-----------------|---------------|---------------|---------------|
@@ -261,8 +279,12 @@ Check whether BST contains Dead end
 Largest BST in a Binary Tree [ V.V.V.V.V IMP ]
 Flatten BST to sorted list
 
+[Back to Top](#top)
+
 <a name="part3"></a>
 ## PART III 
+
+<a name="stack"></a>
 #### Stack and Queue : 38
 
 | Task | October | November | December |
@@ -305,7 +327,10 @@ Sum of minimum and maximum elements of all subarrays of size “k”.
 Minimum sum of squares of character counts in a given string after removing “k” characters.
 Queue based approach or first non-repeating character in a stream.
 Next Smaller Element
-  
+
+[Back to Top](#top)
+
+<a name="heap"></a>
 #### Heap : 18
 | Task | October | November | December |
 |----------------|---------------|---------------|---------------|
@@ -328,9 +353,12 @@ Convert min heap to max heap
 Rearrange characters in a string such that no two adjacent are same.
 Minimum sum of two numbers formed from digits of an array
 
+[Back to Top](#top)
+
 <a name="part4"></a>
 ## PART IV 
 
+<a name="greedy"></a>
 #### Greedy : 35
   
 | Task | October | November | December |
@@ -371,7 +399,9 @@ Find smallest number with given number of digits and sum of digits
 Rearrange characters in a string such that no two adjacent are same
 Find maximum sum possible equal sum of three stacks
 
-  
+[Back to Top](#top)
+
+<a name="dp"></a>
 #### Dynamic : 60
   
 | Task | October | November | December |
@@ -435,8 +465,11 @@ Largest area rectangular sub-matrix with equal number of 1’s and 0’s [ IMP ]
 Maximum sum rectangle in a 2D matrix
 Maximum profit by buying and selling a share at most k times
 Find if a string is interleaved of two other strings
-Maximum Length of Pair Chain
+Maximum Length of Pair Chai
 
+[Back to Top](#top)
+
+<a name="bt"></a>
 #### Back Track : 19
 |Task | October | November | December |
 |----------------|---------------|---------------|---------------|
@@ -460,8 +493,11 @@ Print all possible paths from top left to bottom right of a mXn matrix
 Partition of a set intoK subsets with equal sum
 Find the K-th Permutation Sequence of first N natural numbers
 
+[Back to Top](#top)
+
 <a name="part5"></a>
 ## PART V 
+<a name="trie"></a>
 #### Trie : 6
 |Task | October | November | December |
 |----------------|---------------|---------------|---------------|
@@ -471,7 +507,10 @@ Word Break Problem | (Trie solution)
 Given a sequence of words, print all anagrams together
 Implement a Phone Directory
 Print unique rows in a given boolean matrix
-  
+
+[Back to Top](#top)
+
+<a name="graph"></a>
 #### Graph : 44
 
 | Task | October | November | December |
@@ -522,4 +561,6 @@ Chinese Postman or Route Inspection
 Number of Triangles in a Directed and Undirected Graph
 Minimise the cashflow among a given set of friends who have borrowed money from each other
 Two Clique Problem
- 
+
+
+[Back to Top](#top)
