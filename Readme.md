@@ -5,7 +5,7 @@ This for the Interview Prepartaion for the Product Based Companies .
 1. [Part I](#part1) :: [Array](#array) | [Matrix](#matrix) [String](#string) |  [Search and Sort](#ss)
 2. [PART II](#part2) :: [LinkedList](#ll)  | [BinaryTree](#bt) | [BST](#bst) 
 3. [Part III](#part3) :: [Stack and Queue](#stack) |  [Heap](#heap) 
-4. [Part IV](#part4) :: [Greedy](#greedy) | [Dynamic](#dp) | [BackTrack](#bt) 
+4. [Part IV](#part4) :: [Greedy](#greedy) | [Dynamic](#dp) | [BackTrack](#btrack) 
 5. [Part V](#part5) :: [Trie](#trie) |  [Graph](#graph)
 
 <a name="part1"></a>
@@ -469,7 +469,7 @@ Maximum Length of Pair Chai
 
 [Back to Top](#top)
 
-<a name="bt"></a>
+<a name="btrack"></a>
 #### Back Track : 19
 |Task | October | November | December |
 |----------------|---------------|---------------|---------------|
