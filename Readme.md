@@ -473,25 +473,25 @@ Maximum Length of Pair Chai
 #### Back Track : 19
 |Task | October | November | December |
 |----------------|---------------|---------------|---------------|
-Rat in a maze Problem
-Printing all solutions in N-Queen Problem
-Word Break Problem using Backtracking
-Remove Invalid Parentheses
-Sudoku Solver
-m Coloring Problem
-Print all palindromic partitions of a string
-Subset Sum Problem
-The Knight’s tour problem
+Rat in a maze Problem | :heavy_check_mark:
+Printing all solutions in N-Queen Problem |:heavy_check_mark:
+Word Break Problem using Backtracking|:heavy_check_mark:
+Remove Invalid Parentheses|:heavy_check_mark:
+Sudoku Solver|:heavy_check_mark:
+m Coloring Problem|:heavy_check_mark:
+Print all palindromic partitions of a string|:heavy_check_mark:
+Subset Sum Problem|:heavy_check_mark:
+The Knight’s tour problem|:heavy_check_mark:
 Tug of War
-Find shortest safe route in a path with landmines
-Combinational Sum
-Find Maximum number possible by doing at-most K swaps
-Print all permutations of a string 
-Find if there is a path of more than k length from a source
-Longest Possible Route in a Matrix with Hurdles
-Print all possible paths from top left to bottom right of a mXn matrix
-Partition of a set intoK subsets with equal sum
-Find the K-th Permutation Sequence of first N natural numbers
+Find shortest safe route in a path with landmines|:heavy_check_mark:
+Combinational Sum|:heavy_check_mark:
+Find Maximum number possible by doing at-most K swaps|:heavy_check_mark:
+Print all permutations of a string |:heavy_check_mark:
+Find if there is a path of more than k length from a source|:heavy_check_mark:
+Longest Possible Route in a Matrix with Hurdles|:heavy_check_mark:
+Print all possible paths from top left to bottom right of a mXn matrix|:heavy_check_mark:
+Partition of a set intoK subsets with equal sum|:heavy_check_mark:
+Find the K-th Permutation Sequence of first N natural numbers|:heavy_check_mark:
 
 [Back to Top](#top)
 
